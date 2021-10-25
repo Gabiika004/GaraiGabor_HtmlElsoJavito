@@ -39,3 +39,23 @@ p{
 #bemutato{
     font-style: italic;
 }
+
+span{
+    font-size: 30px;
+}
+
+#Rayzen{
+    background-color: brown;
+}
+.rayzen{
+    background-color: brown;
+}
+#intel{
+    background-color:blue;
+}
+.intel{
+    background-color:blue;
+}
+.nehalem,.history{
+    background-color: darkmagenta;
+}
