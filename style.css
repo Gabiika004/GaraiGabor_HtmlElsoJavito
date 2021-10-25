@@ -1,6 +1,7 @@
 *{
     background-color: rgb(4, 83, 4);
     color: #fff;
+    text-align: justify;
     
 }
 h1,h2,h3{
@@ -9,6 +10,7 @@ h1,h2,h3{
 
 p{
     font-size: 20px;
+    
 }
 
 .menu{
@@ -32,4 +34,8 @@ p{
 
 .menu:hover{
     color: blue;
+}
+
+#bemutato{
+    font-style: italic;
 }
